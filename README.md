@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhenLanny
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C,c++,C#,java,html and js
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning C,C++,C#,Java,html and JS
 - 💞️ I’m looking to collaborate on any small project
 - 📫 How to reach me on my instagram Zhen Lanny
 
