@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZhenLanny
+- 👋 Hi, I’m @ZhenLanny (Sentris R Kogoya)
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C,C++,C#,Java,html and JS
 - 💞️ I’m looking to collaborate on any small project
