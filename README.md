@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C,C++,C#,Java,html and JS
 - 💞️ I’m looking to collaborate on any small project
-- 📫 How to reach me on my instagram Zhen Lanny
+- 📫 How to reach me on my instagram Zhen Lany
 
 <!---
 ZhenLanny/ZhenLanny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
